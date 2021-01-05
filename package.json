@@ -9,7 +9,7 @@
     "backend": "json-server --watch db.json --port 5000 --delay=750"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "expo": "~36.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
